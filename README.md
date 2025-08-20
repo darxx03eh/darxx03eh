@@ -61,7 +61,8 @@
 
 <h3 align="left">Architecture and Patterns  :</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Clean%20Architecture-2C3E50?style=for-the-badge&logo=archlinux&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Clean%20Architecture-2C3E50?style=for-the-badge&logo=archlinux&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/N--Layer%20Architecture-FF5722?style=for-the-badge&logo=layers&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mediator%20Pattern-6A1B9A?style=for-the-badge&logo=pattern&logoColor=white"/>  
   <img src="https://img.shields.io/badge/CQRS%20Pattern-1565C0?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
