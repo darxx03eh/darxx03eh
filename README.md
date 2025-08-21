@@ -21,6 +21,9 @@
 <a href="https://instagram.com/darxx03eh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmoud-darawsheh" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/iiDarawsheh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mahmoud-darawsheh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/DarawshehX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahmoud-darawsheh" height="30" width="40" /></a>
+  <a href="https://discord.com/users/darxx03eh" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
