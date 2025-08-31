@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi,+I'm+Mahmoud-Darawsheh;I'am+a+.Net+Backend+Developer;Always+learning%2C+always+growing" alt="Typing SVG" />
 </div>
-<img align="right" alt="loffy" width="300" src="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif">
+<img align="right" alt="loffy" width="300" src="https://d2ms8rpfqc4h24.cloudfront.net/Backend_Development_Services_72ad65ebe8.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darxx03eh&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-darawsheh" /> </p>
 
