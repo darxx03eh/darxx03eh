@@ -61,6 +61,9 @@
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white"/>
+  <!-- Testing Frameworks -->
+<img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=xunit&logoColor=white"/>
+<img src="https://img.shields.io/badge/FluentAssertions-FF6C37?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
 
 ---
