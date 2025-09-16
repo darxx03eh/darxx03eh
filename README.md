@@ -85,4 +85,8 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darxx03eh&theme=github_dark&hide_border=true&border_color=00bfff" alt="Mahmoud's GitHub Stats" width="545"/>
 </p>
 
+<div align="center">
+	<img src="https://github.com/JeffersonRPM/JeffersonRPM/blob/output/github-contribution-grid-snake.svg">
+</div>
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=111&section=footer)
