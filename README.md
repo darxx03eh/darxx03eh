@@ -44,6 +44,9 @@
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <!-- Testing Frameworks -->
+  <img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=xunit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FluentAssertions-FF6C37?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <!-- Database Tools -->
   <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/pgAdmin-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -61,9 +64,7 @@
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white"/>
-  <!-- Testing Frameworks -->
-<img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=xunit&logoColor=white"/>
-<img src="https://img.shields.io/badge/FluentAssertions-FF6C37?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  
 </p>
 
 ---
