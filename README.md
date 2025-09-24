@@ -6,11 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darxx03eh&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-darawsheh" /> </p>
 
-- 🚀 I’m currently working on:
- **Luqma:** a Smart Restaurant Management System with AI-Powered Waste Reduction **&**
- **ARABOON:** a website that brings manga and manhwa lovers on one platform
+- 🚀 I’m currently working on:  
+ 	- **Luqma:** a Smart Restaurant Management System with AI-Powered Waste Reduction. 
+ 	- **ARABOON:** a website that brings manga and manhwa lovers on one platform.
 
-- 💬 Ask me about **C# & .NET Framework**
+- 🌱 Currently learning: **React js**
+  
+- 💬 Ask me about:
+  	- **C# & .NET Framework**
+  	- **Python & Django Framework**
 
 - 📫 How to reach me **darxx03eh@gmail.com**
 
