@@ -17,6 +17,7 @@
   	- **Python & Django Framework**
 
 - 📫 How to reach me **darxx03eh@gmail.com**
+- ⚡ Fun fact: Music in my ears makes my coding flow 🎧
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
