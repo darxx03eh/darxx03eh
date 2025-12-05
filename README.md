@@ -8,7 +8,6 @@
 
 - 🚀 I’m currently working on:  
  	- **Luqma:** a Smart Restaurant Management System with AI-Powered Waste Reduction. 
- 	- **ARABOON:** a website that brings manga and manhwa lovers on one platform.
 
 - 🌱 Currently learning: **React js**
   
