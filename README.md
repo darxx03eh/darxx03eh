@@ -7,7 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darxx03eh&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-darawsheh" /> </p>
 
 - 🚀 I’m currently working on:  
- 	- **Luqma:** a Smart Restaurant Management System with AI-Powered Waste Reduction. 
 
 - 🌱 Currently learning: **React js**
   
