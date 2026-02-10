@@ -8,7 +8,7 @@
 
 - 🚀 I’m currently working on:  
 
-- 🌱 Currently learning: **React js**
+- 🌱 Currently learning:  
   
 - 💬 Ask me about:
   	- **C# & .NET Framework**
