@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi,+I'm+Mahmoud-Darawsheh;I'am+a+.Net+Backend+Developer;Always+learning%2C+always+growing" alt="Typing SVG" />
 </div>
-<img align="right" alt="Gojo" width="450" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2F5Y2d5cWJjeGd3czJjNGJyYTNxZTZkMGhrY2dxeDQ5a2dhYTJmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oQht1Hk7HJ8USa5jrK/giphy.gif">
+<img align="right" alt="Gojo" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2F5Y2d5cWJjeGd3czJjNGJyYTNxZTZkMGhrY2dxeDQ5a2dhYTJmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oQht1Hk7HJ8USa5jrK/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darxx03eh&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-darawsheh" /> </p>
 
